@@ -16,6 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="mute_nosupport">Kan niet dempen: video wordt niet ondersteund</string>
-  <string name="fail_trim">Kan deze video niet bijsnijden</string>
+  <string name="mute_nosupport">Nu se poate opri sunetul: video neacceptat</string>
+  <string name="fail_trim">Ne pare rău, acest fișier video nu poate fi tăiat</string>
 </resources>
